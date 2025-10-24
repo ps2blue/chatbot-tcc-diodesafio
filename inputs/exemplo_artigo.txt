@@ -1,0 +1,2 @@
+A inteligência artificial generativa permite analisar grandes volumes de texto de forma contextual.
+Técnicas como embeddings e recuperação aumentada (RAG) ajudam a responder perguntas com base em documentos específicos, como artigos científicos usados em TCCs.
